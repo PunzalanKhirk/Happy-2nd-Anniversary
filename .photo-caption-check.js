@@ -172,7 +172,7 @@ var PHOTO_CAPTIONS=[
   "You bring a little golden-flower magic into every day.", // Photo 18
   "Cuties.", // Photo 19
   "Faith, and you. Thatâ€™s all I need.", // Photo 20
-  "Baldado, pero baldo dyapon simo.", // Photo 21
+  "Baldado, pero paldo dyapon simo.", // Photo 21
   "Our memory in film. Iâ€™d keep it forever." // Photo 22
 ];
 var TYPES={
